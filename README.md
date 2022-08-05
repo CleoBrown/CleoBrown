@@ -13,9 +13,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-## 💬 About
+## 🌵 About
 
-Hi there, I'm Gillian 😊🌵<br>
+Hi there, I'm Gillian 😊<br>
 
 🐕 I'm a junior software developer, former marketer, and a proud malshi owner.<br>
 🎓 I’m currently learning Java  and developing my skills in React, Javascript, CSS and Docker.<br>
