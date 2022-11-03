@@ -18,7 +18,7 @@
 Hi there, I'm Gillian 😊<br>
 
 🐕 I'm a junior software developer, former marketer, and a proud malshi owner.<br>
-🎓 I’m currently learning Java  and developing my skills in React, Javascript, CSS and Docker.<br>
+🎓 I’m currently learning Javascript  and developing my skills in React, CSS and Docker.<br>
 👀 Check out these apps that I built recently:<br>
 - [Blockbuster Inventory Management App](https://github.com/CleoBrown/blockbuster_video_python_project)<br> 
 - [Studio Ghibli Film Selection App](https://github.com/CleoBrown/studio_ghibli_react_api_app)<br>
