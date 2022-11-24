@@ -26,6 +26,6 @@ Hi there, I'm Gillian 😊<br>
 
 
 ## 💬 How to reach me
-<a target="_blank" href="https://www.linkedin.com/in/gillian-b-moy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/gillian-b-moynagh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 
